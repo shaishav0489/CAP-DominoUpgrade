@@ -1,0 +1,38 @@
+{
+  "data": {
+    "model": "SMB40",
+    "rcinput": {
+      "obligorName": "Example SMB Ltd.",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "SMB",
+      "primaryIndustry": "RETAIL",
+      "pdTerm": "",
+      "isTTC": "off",
+      "cashAndMarketableSecurities": "15000",
+      "totalAccountsReceivable": "25000",
+      "totalInventory": "30000",
+      "totalCurrentAssets": "70000",
+      "totalFixedAssets": "50000",
+      "totalAssets": "120000",
+      "totalAccountsPayable": "20000",
+      "shortTermDebt": "10000",
+      "totalCurrentLiabilities": "30000",
+      "totalLongTermDebt": "40000",
+      "totalLiabilities": "70000",
+      "netWorth": "50000",
+      "totalSales": "200000",
+      "totalSalesPreviousYear": "180000",
+      "totalCostOfGoodsSold": "150000",
+      "grossProfit": "50000",
+      "totalOperatingExpenses": "30000",
+      "totalOperatingProfit": "20000",
+      "totalInterestExpense": "2000",
+      "netIncome": "18000",
+      "entityIdentifier": "Example-SMB-2025"
+    },
+    "historical": {
+      "reportType": "5YearQuarterlyHistorical"
+    }
+  }
+}

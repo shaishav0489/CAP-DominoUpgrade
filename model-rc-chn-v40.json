@@ -1,0 +1,30 @@
+{
+  "data": {
+    "model": "CHN40",
+    "rcinput": {
+      "obligorName": "test",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "SECTOR",
+      "primaryIndustry": "TRADE",
+      "pdTerm": "",
+      "isTTC": "off",
+      "totalInventory": "",
+      "totalCurrentAssets": "",
+      "totalAccumulatedDepreciation": "",
+      "totalAccumulatedDepreciationPreviousYear": "",
+      "totalAssets": "3000",
+      "totalCurrentLiabilities": "",
+      "totalLiabilities": "",
+      "totalSales": "4000",
+      "totalSalesPreviousYear": "",
+      "totalOperatingProfit": "",
+      "totalInterestExpense": "",
+      "netIncome": "5000",
+      "entityIdentifier": "test"
+    },
+    "historical": {
+      "reportType": "10YearMonthlyHistorical"
+    }
+  }
+}

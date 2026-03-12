@@ -1,0 +1,44 @@
+{
+  "data": {
+    "model": "CMM_INV_PD",
+    "rcinput": {
+      "obligorName": "Investment Entity Example Ltd.",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "FIN",
+      "primaryIndustry": "INVESTMENT_SERVICES",
+      "pdTerm": "12M",
+      "isTTC": "off",
+      "cashAndMarketableSecurities": "50000",
+      "totalInvestments": "200000",
+      "totalAssets": "300000",
+      "totalLiabilities": "100000",
+      "netWorth": "200000",
+      "totalRevenues": "150000",
+      "totalRevenuesPreviousYear": "140000",
+      "totalExpenses": "100000",
+      "netIncome": "50000",
+      "investmentIncome": "25000",
+      "debtToEquityRatio": "0.5",
+      "interestCoverageRatio": "5.0",
+      "returnOnAssets": "0.167",
+      "returnOnEquity": "0.25",
+      "entityIdentifier": "Investment-Entity-2025"
+    },
+    "riskParameters": {
+      "economicRegion": "North America",
+      "creditRating": "A",
+      "historicalDefaultRate": "0.01",
+      "lgdAssumption": "0.45",
+      "macroeconomicScenario": "Baseline"
+    },
+    "historical": {
+      "reportType": "5YearQuarterlyPDHistorical",
+      "pdValues": [
+        {"date": "2024-12-31", "pd": "0.010"},
+        {"date": "2024-09-30", "pd": "0.012"},
+        {"date": "2024-06-30", "pd": "0.011"}
+      ]
+    }
+  }
+}

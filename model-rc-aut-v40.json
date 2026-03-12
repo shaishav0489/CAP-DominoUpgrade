@@ -1,0 +1,37 @@
+{
+  "data": {
+    "model": "AUT40",
+    "rcinput": {
+      "obligorName": "Mechatronic Company Elektrotechnik Gmbh",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "NDY",
+      "primaryIndustry": "N20",
+      "pdTerm": "",
+      "isTTC": "off",
+      "cashAndMarketableSecurities": "6.547",
+      "totalAccountsReceivable": "0",
+      "totalAccountsReceivablePreviousYear": "0",
+      "totalInventory": "69.257",
+      "totalInventoryPreviousYear": "27.336",
+      "totalAssets": "185.541",
+      "totalAccountsPayable": "",
+      "totalAccountsPayablePreviousYear": "",
+      "notesPayable": "",
+      "debtCurrentMaturities": "",
+      "totalCurrentLiabilities": "0",
+      "totalLongTermDebt": "74.734",
+      "totalLiabilities": "90.761",
+      "totalSales": "500",
+      "totalSalesPreviousYear": "",
+      "totalAmortizationAndDepreciation": "",
+      "totalInterestExpense": "",
+      "totalOperatingProfit": "",
+      "profitBeforeTaxesAndExtraordinaryExpenses": "",
+      "entityIdentifier": "Mechatronic Company Elektrotechnik Gmbh"
+    },
+    "historical": {
+      "reportType": "10YearMonthlyHistorical"
+    }
+  }
+}

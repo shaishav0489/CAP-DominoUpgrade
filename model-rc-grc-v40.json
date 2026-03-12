@@ -1,0 +1,31 @@
+{
+  "data": {
+    "model": "GRC40",
+    "rcinput": {
+      "obligorName": "Parabita S.A.",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "NDY",
+      "primaryIndustry": "N18",
+      "pdTerm": "",
+      "isTTC": "off",
+      "cashAndMarketableSecurities": "521.033",
+      "totalInventory": "1191.493",
+      "totalAssets": "3895.869",
+      "totalCurrentLiabilities": "2750.115",
+      "shortTermDebt": "733.96",
+      "totalLongTermDebt": "554.914",
+      "totalLiabilities": "3381.984",
+      "totalSales": "9318.611",
+      "totalSalesPreviousYear": "8759.211",
+      "totalAmortizationAndDepreciation": "247.544",
+      "financeCosts": "77.121",
+      "totalOperatingProfit": "154.484",
+      "netIncome": "20.943",
+      "entityIdentifier": "Parabita S.A."
+    },
+    "historical": {
+      "reportType": "10YearMonthlyHistorical"
+    }
+  }
+}

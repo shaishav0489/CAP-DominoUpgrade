@@ -1,0 +1,36 @@
+{
+  "data": {
+    "model": "DEU40",
+    "rcinput": {
+      "obligorName": "test",
+      "financialStatementDate": "2025-01-01",
+      "asOfDate": "2025-01-01",
+      "primaryIndustryClassification": "NDY",
+      "primaryIndustry": "N03",
+      "pdTerm": "",
+      "isTTC": "off",
+      "totalIntangibleAssets": "",
+      "cash": "",
+      "totalAssets": "2000",
+      "totalAssetsPreviousYear": "",
+      "totalProvisions": "",
+      "liabilitiesToBanks": "",
+      "payableToTrade": "",
+      "totalLiabilities": "40000",
+      "netSales": "3000",
+      "netSalesPreviousYear": "",
+      "totalWageExpense": "",
+      "totalAmortizationAndDepreciation": "",
+      "totalInterestExpense": "",
+      "totalExtraordinaryItems": "",
+      "taxesOnIncome": "",
+      "otherTaxes": "",
+      "netIncome": "",
+      "netIncomePreviousYear": "",
+      "entityIdentifier": "test"
+    },
+    "historical": {
+      "reportType": "10YearMonthlyHistorical"
+    }
+  }
+}
